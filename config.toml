@@ -1,0 +1,49 @@
+baseURL = "https://matthartz.me/blog_hugo"
+title = "Matt Hartz"
+author = "Matt Hartz"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-tanka"
+
+enableEmoji = true
+hasCJKLanguage = false
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
+[params]
+  sitename = "Matt Hartz"
+  faviconfile = "images/favicon.png"
+  highlightjs = true
+  highlightjslanguages = ["r", "python", "stan"]
+  uselatex = true
+  progressively = false
+# commentsrepo = "user/repo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.primary]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.primary]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.primary]]
+    name = "GitHub"
+    url = "https://github.com/mhartz25"
+    weight = 3
+[[menu.primary]]
+    name = "Twitter"
+    url = "https://twitter.com/MattHartz_"
+    weight = 4
+[[menu.primary]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/matt-hartz/"
+    weight = 5
