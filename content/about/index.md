@@ -12,7 +12,7 @@ At some point I might fill out this page with quotes and books that I enjoy, but
 
 
 ### Contact Info
-Email: mthartz25@gmail.com
+Email: mthartz25[at]gmail[dot]com
 
 
 

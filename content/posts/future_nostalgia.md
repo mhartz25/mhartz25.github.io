@@ -16,7 +16,7 @@ Second, I think you need to know the different types of nostalgia. Only some of 
 
 ### Olfactory
 
-This is nostalgia related to the sense of smell, which I tend to especially enjoy. Exposed to a burst of some scent, and suddenly you’re transported back to a time period 5,10, 15 years ago. It makes absolutely no sense, but it’s great. A common way I find myself experiencing this is through artificial smells like soaps, detergiants, etc. Which has caused me to change the way in which I pick these items to use in my life. Now when I move or enter a new phase in my life, I swap these toiletries for something of a different, inexperienced-as-of-yet scent. I recognize the ridiculousness in this, but if all I need to do to score myself a few extra bouts of nostalgia 10 years from now is change my hand soap from Morning Dew to Lavender then put a flat brim on me and call me Rob Dyrdek. 
+This is nostalgia related to the sense of smell, which I tend to especially enjoy. Exposed to a burst of some scent, and suddenly you’re transported back to a time period 5,10, 15 years ago. It makes absolutely no sense, but it’s great. A common way I find myself experiencing this is through artificial smells like soaps, detergents, etc. Which has caused me to change the way in which I pick these items to use in my life. Now when I move or enter a new phase in my life, I swap these toiletries for something of a different, inexperienced-as-of-yet scent. I recognize the ridiculousness in this, but if all I need to do to score myself a few extra bouts of nostalgia 10 years from now is change my hand soap from Morning Dew to Lavender then put a flat brim on me and call me Rob Dyrdek. 
 
 ### Auditory
 
