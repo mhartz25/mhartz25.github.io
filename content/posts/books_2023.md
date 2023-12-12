@@ -120,3 +120,23 @@ Really good. A collection of essays from the Dear Sugar internet column. Some of
 
 
 This book had been on my list for a little while now. Reducing my technology use but continuing to use technology in the right way is very important to me, which is why I wrote this(link). It's an on-going battle but this book gives some good ideas/practices
+
+
+#### Amusing Ourselves to Death by Neil Postman
+
+I cannot believe this book was written in 1985. For the rest of my life whenever 1984 is brought up I will referenece Postman's argument of how it's actually Huxley's Brave New World we should be concerned about. Everyone should read this book, however I will say at times it gets pretty in the weeds from a philosophy standpoint which most people might not like.
+
+
+#### The Gunslinger by Stephen King
+
+I liked this, at some point I'll read the rest of the series, but not sure when
+
+
+#### How Will You Measure Your Life
+
+One of the best of the year. I think the framing of how overachievers can suddenly find themselves unhappy is effective. Many gems in here on how one can structure their life, my favorite: Don't look for a life partner who will make you happy. Look for someone *you* want to make happy
+
+
+#### World War Z by Max Brooks
+
+Much different than the movie. Interesting narrative structure. Other than that, meh
