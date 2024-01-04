@@ -8,7 +8,7 @@ description: "books are cool"
 
 
 
-Compiling the books I have read in 2023, maybe someone will see this and it will spark a conversation about one of them. These are mostly in chronilogical order
+Compiling the books I read in 2023, maybe someone will see this and it will spark a conversation about one of them. These are mostly in chronological order
 
 
 
@@ -140,3 +140,13 @@ One of the best of the year. I think the framing of how overachievers can sudden
 #### World War Z by Max Brooks
 
 Much different than the movie. Interesting narrative structure. Other than that, meh
+
+
+#### Poor Charlie's Almanac 
+
+Most of my absorbtion of Munger's ideas have been from secondary sources so it was a nice change of pace to consume them directly. I think the thing I liked most about this collection of essays is how often the same subject comes up. It signals to me the clarity of thought Charlie had. An unexpected development from reading this was I've started reading a bunch of Berkshire's Shareholder Letters. Highly recommend.
+
+
+#### Sex, Drugs, and Coco Puffs by Chuck Klosterman
+
+A very different collection of essays than the above. Some interesting content in here. Things I agreed with, things I disagreed with, and things I was apathetic towards. Klosterman's assertiveness(arogance) on each of his positions make this more compelling than it probably should've been
