@@ -1,6 +1,6 @@
 ---
 title: "2023 Reading List"
-date: "2023-10-09"
+date: "2023-12-31"
 menu: "main"
 description: "books are cool"
 ---
@@ -9,7 +9,6 @@ description: "books are cool"
 
 
 Compiling the books I read in 2023, maybe someone will see this and it will spark a conversation about one of them. These are mostly in chronological order
-
 
 
 #### The Body Keeps the Score by Bessel Van Der Kolk
