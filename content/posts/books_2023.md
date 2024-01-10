@@ -13,16 +13,16 @@ Compiling the books I read in 2023, maybe someone will see this and it will spar
 
 #### The Body Keeps the Score by Bessel Van Der Kolk
 
-Incredible book. Something I think everyone can benefit from reading. Whether or not you have experiences with Depression, Anxiety, etc. there are many ways in which you can benefit from being more intune with what uour body is telling you. Listen to it.
+Incredible book. Something I think everyone can benefit from reading. Whether or not you have experiences with Depression, Anxiety, etc. there are many ways in which you can benefit from being more intune with what your body is telling you. Listen to it.
 
 
 #### The Phoenix Project by Gene Kim, George Spafford, Kevin Behr
 
-A fiction book that is supposed to be teaching you DevOps. Probably would've liked it better if I hadn't already read the DevOps Handbook.
+A fiction book that is supposed to be teaching you DevOps. If you care enough about learning DevOps to read this just skip right to the DevOps Handbook.
 
 #### Mickey7 by Edward Ashton
 
-Super interesting premise, but kinda disappointing. Felt like the author toed the line between comedy and philosophic, but neither aspect of that worked for me. The most intersting part of the book was a 5 page background on a character who never actually appears
+Super interesting premise, but kinda disappointing. Felt like the author toed the line between comedy and philosophic, but neither aspect of that worked for me. The most intersting part of the book was a 5 page background on a character who never actually appears.
 
 
 #### South of Broad by Patrick Conroy
@@ -54,7 +54,7 @@ I have no idea how I ended up owning this book. I know I ordered it but I'm not 
 
 #### In the Garden of Beasts by Erik Larson
 
-This is the second Larson book I've read, and I still really like his novelistic Non-fiction style. Learning more about pre-WWII Nazi Germany was intersting, but I think the main figure of William Dodd is what really made me like this.
+This is the second Larson book I've read, and I still really like his novelistic non-fiction style. Learning more about pre-WWII Nazi Germany was intersting, but I think the main figure of William Dodd is what really made me like this.
 
 
 #### Means of Ascent by Robert Caro
@@ -87,7 +87,7 @@ I'm love a good aphorism. Don't overanalyze them.
 
 #### The Sun Also Rises by Ernest Hemingway
 
-My first forray into Hemingway -- if you don't count me scanning the Old Man and the Sea when I was 10 becaused I liked Marlins. Not really sure what I think about this one. The Lost Generation is interesting, but not *that* interesting to me
+My first forray into Hemingway -- if you don't count me scanning the Old Man and the Sea when I was 10 becaused I liked marlins. Not really sure what I think about this one. The Lost Generation is interesting, but not *that* interesting to me
 
 #### The Count of Monte Cristo by Alexandre Dumas
 Enjoyed this but realized afterwards I read the abridged version. Apparently that was a mistake, I'll revisit the full thing in like a decade.
@@ -98,7 +98,7 @@ Randomly picked this backup after reading the first 60ish pages about 2 years ag
 
 #### The Grapes of Wrath by John Steinbeck
 
-East of Eden might be my favorite book(link), so I was excited to read this. It's good, but it is a different type of book. It's a great window into the post-Depression era. I can also understand why certain groups would've wanted this book banned at the time.
+East of Eden might be [my favorite book](https://matthartz.me/posts/books_as_a_service/), so I was excited to read this. It's good, but it is a different type of book. It's a great window into the post-Depression era. I can also understand why certain groups would've wanted this book banned at the time.
 
 
 #### Red Notice by Bill Browder
@@ -118,7 +118,7 @@ Really good. A collection of essays from the Dear Sugar internet column. Some of
 #### Digital Minimalism by Cal Newport
 
 
-This book had been on my list for a little while now. Reducing my technology use but continuing to use technology in the right way is very important to me, which is why I wrote this(link). It's an on-going battle but this book gives some good ideas/practices
+This book had been on my list for a little while now. Reducing my technology use but continuing to use technology in the right way is very important to me, which is why I wrote [this](https://matthartz.me/posts/digital_ascetic/). It's an on-going battle but this book gives some good ideas/practices.
 
 
 #### Amusing Ourselves to Death by Neil Postman
@@ -128,17 +128,17 @@ I cannot believe this book was written in 1985. For the rest of my life whenever
 
 #### The Gunslinger by Stephen King
 
-I liked this, at some point I'll read the rest of the series, but not sure when
+I liked this, at some point I'll read the rest of the series, but not sure when.
 
 
 #### How Will You Measure Your Life
 
-One of the best of the year. I think the framing of how overachievers can suddenly find themselves unhappy is effective. Many gems in here on how one can structure their life, my favorite: Don't look for a life partner who will make you happy. Look for someone *you* want to make happy
+One of the best of the year. I think the framing of how overachievers can suddenly find themselves unhappy is effective. Many gems in here on how one can structure their life, my favorite: Don't look for a life partner who will make you happy. Look for someone *you* want to make happy.
 
 
 #### World War Z by Max Brooks
 
-Much different than the movie. Interesting narrative structure. Other than that, meh
+Much different than the movie. Interesting narrative structure. Other than that, meh.
 
 
 #### Poor Charlie's Almanac 
@@ -148,4 +148,4 @@ Most of my absorbtion of Munger's ideas have been from secondary sources so it w
 
 #### Sex, Drugs, and Coco Puffs by Chuck Klosterman
 
-A very different collection of essays than the above. Some interesting content in here. Things I agreed with, things I disagreed with, and things I was apathetic towards. Klosterman's assertiveness(arogance) on each of his positions make this more compelling than it probably should've been
+A very different collection of essays than the above. Some interesting content in here. Things I agreed with, things I disagreed with, and things I was apathetic towards. Klosterman's assertiveness(arrogance) on each of his positions make this more compelling than it probably should've been
