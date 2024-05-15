@@ -1,5 +1,5 @@
 ---
-title: "NLP Research Paper"
+title: "Identifying Suicidal Ideation"
 date: "2024-02-07"
 menu: "main"
 description: "my first attempt at a research paper"
