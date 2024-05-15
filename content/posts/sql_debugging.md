@@ -1,6 +1,6 @@
 ---
 title: "How I Debug SQL"
-date: "2022-11-27"
+date: "2023-11-27"
 menu: "main"
 description: "Some thoughts"
 ---
