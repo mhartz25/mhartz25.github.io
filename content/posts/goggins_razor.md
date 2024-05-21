@@ -19,5 +19,6 @@ Like any good maxim or heuristic there are obvious dangers if you take it to its
 
 Confucius got it right a long time ago: “The Man who says he can, and the man who says he can not.. Are both correct”
 
+#### Footnotes
 
 [1] I have a friend who is an ultramarathoner whose answer to this question might actually be Yes
