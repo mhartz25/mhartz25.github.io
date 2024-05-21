@@ -7,9 +7,6 @@ description: "a tool for belief"
 
 
 
-## Goggins Razor
-
-
 David Goggins is the type of figure who I definitely would have hated 5 years ago if I had come across him. And I think that probably says more about what my mindset was than who he is(1). I would’ve seen him as some type of motivational grifter who would say anything to get people to buy what he is selling. And perhaps that might be true. But I don’t think it matters. I’ve come to the conclusion that, whether or not something what he says is true, there is value in believing it.
 
 And there’s other aspects of this in my life that I’ve slowly shifted my views on – such as the role of Luck and hard-work in success -- that I now think of this concept as Goggin’s Razor. 
