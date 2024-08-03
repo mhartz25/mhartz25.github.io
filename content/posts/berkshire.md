@@ -1,28 +1,44 @@
 ---
-title: "Berkshire Hathaway Shareholder Notes"
+title: "Berkshire Hathaway Shareholder Letters"
 date: "2024-07-11"
 menu: "main"
 description: "incredible"
 ---
 
 
-I've been slowly reading all of Warren Buffet's shareholder letters for Berkshire Hathaway. They are nothing short of incredible. It blows me away these things are just free to download.
+I've been slowly reading(and still am) all of Warren Buffet's shareholder letters for Berkshire Hathaway. They are nothing short of incredible. It blows me away these things are just free to download.
 
 After reading a bunch of them you start to see patterns emerge. The things that were important to Buffet and Berkshire in the 1980s still get mentioned in the late 2010s. The consistent focus on the long term over any short term The striking level of humilitiy -- even in the years with >30% returns. You read these things and it makes you question what everyone else is seeing. 
 
 Another unexpected thing was how funny Buffet was. There were multiple moments where I found myself laughing. Shareholder letters are probably not thought of as a reliable source for humor but I think it just goes to show who Buffet(and Munger are). Take your ideas very seriously, but never yourself.
 
-There is so much to learn from these letters. Below I've compiled all of the notes that I've taken. There might be some side comments from me here or there, but for the most part I've tried to copy them verbatim.
+There is so much to learn from these letters. Below I've compiled all of the notes that I've taken. I like to think my notes are of a higher quality than what chatGPT could come up with. There might be some side comments from me here or there, but for the most part I've tried to copy them verbatim.
 
 
+## Table of Contents
+
+- [1981](#1981)
+- [1982](#1982)
+- [1983](#1983)
+- [1984](#1984)
+- [1985](#1985)
+- [1987](#1987)
+- [1990](#1990)
+- [1996](#1996)
+- [2007](#2007)
+- [2009](#2009)
+- [2012](#2012)
+- [2017](#2017)
 
 
+<br>
+<br>
 
 ### 1981
 
 - We would rather buy 10% of Wonderful Business T at X per share than 100% of T at 2x per share. Most corporate managers prefer just the reverse, and have no shortages of stated rationales for their behavior
 - Leaders, business or otherwise, seldom are deficient in animal spirits and often relish increased activity and challenge
-    - Interventionistas, IREAM
+    - Interventionistas, Incentives Rule Everything Around Me(IREAM)
 - most organizations, measure themselves, are measured by others, and compensate their managers far more by the yardstick of size than by any other yardstick
     - IREAM
 - many managements apparently were overexposed in impressionable childhood years to the story in which the imprisoined handsome prince is released from a toad’s body by a kiss from a beautiful princess. Consequently, they are certain their managerial kiss will do wonders for the profitability of Company T
