@@ -35,7 +35,7 @@ Patience, like underwear, is always best to have more than we think we need[3]. 
 These values are inexhaustive. They are not zero-sum. Give them away without question and without fear. And when you find them reflected back to you, you will be at home.
 Now this wouldn’t be a good commencement address unless I gave you some simple wrapped-up things to take with you. Take these with you, question them, dispense with them immediately. That’s your choice to make, I only ask that you don’t make it lightly.
 
-*Always have someone or something in your life that is more important than yourself*
+#### *Always have someone or something in your life that is more important than yourself*
 
 We are selfish creatures – millennia upon millennia of evolution has reinforced as much. There is not much we can do about that. However, when it comes to what we are selfish about we might be granted a bit more leeway.
 
@@ -45,7 +45,7 @@ The details here do not matter as much, nor does the actual reality of things. F
 
 But the more we can train ourselves to act outside our own, short-term self interests the easier it will become. And the more fulfilling each interaction in our daily lives will be. 
 
-*Each and everyday*
+#### *Each and everyday*
 
 The most important day of your life is Day 14,231. Because you know what happens that day? Life happens. Just as much as it does on Day 6,732 or Day 23,980. Just as much as it does on your Graduation Day or on your wedding day.
 
@@ -53,13 +53,13 @@ All of the ordinary days serve as pixels in one giant image, pay as much attenti
 
 Life moves quickly. Sometimes it can be tough to keep our heads above water. But the more often you can find times to remind yourself you are on this journey, the better. Don’t be afraid to find beauty in it all.
 
-*Agency is the most powerful weapon you can give someone*
+#### *Agency is the most powerful weapon you can give someone*
 
 This one might be a bit out there, but bear with me. Loving as much as possible -- given all of its downstream outcomes – should probably be the real lesson here. However, the key word here is weapon. Agency, which in my eyes is often a result of love, is something that people can wield for their own benefit. A strong belief within yourself about what you deserve – along with the willingness to act -- can create pathways unavailable to those who might be more content with the cards they were dealt. I don’t mean to paint a picture of some reductive meritocracy where the only variable that matters is how hard you try. But knowing, instinctually, that you have the ability to impact your own destiny, is a belief that is worth more than just about anything. Sometimes we have all the control and sometimes we have none, perhaps it is better to lean more towards the former. 
 
 Or as Charlie Munger would say, in a way only he could, “Deserve what you want.”
 
-*Learn. From others and from yourself*
+#### *Learn. From others and from yourself*
 
 Perhaps one of the biggest advantages you can give yourself in of life is a desire to learn and grow. This can be anything you make it. A musical instrument, serious academic studies, or latte art. Learning eventually bleeds into everything. You get familiar with who you are as a person and an awareness of who you aren’t. It can become an insatiable desire.
 
